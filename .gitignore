@@ -25,7 +25,6 @@ _assets
 _design
 _content
 _tmp
-dist
 build
 venv
 _build
